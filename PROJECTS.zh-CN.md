@@ -86,17 +86,6 @@
 - Electron 主进程 + Python 子进程双进程架构，stdin / NDJSON 事件流通信
 - 配套 License 授权服务（Fastify）、Ed25519 签名的自动更新、Windows / macOS 双端打包
 
-## 🧪 AI 与个人项目
-
-| 项目 | 简介 | 技术 |
-|---|---|---|
-| **山河纪** | 中国历史 3D 沙盘：疆域变迁、诗人行旅、古代战役动画复原 | Next.js 16 · Three.js · Cloudflare Workers |
-| **Claudio** | 个人 AI 电台：用 Claude Code 当 DJ 大脑决定播放与串词，TTS 语音播报 | Node.js · React PWA · WebSocket · TTS |
-| **AI 传统文化解读 App** | 移动端 AI 应用，可切换多家大模型，RAG 知识库增强回答 | React Native (Expo) · FastAPI · RAG · SSE |
-| **AI 漫剧生产流水线** | 小说 → 角色资产 → 分镜 → AI 视频生成，用机器可读清单驱动多个 Agent 会话接力 | AI 视频生成 · ComfyUI · Agent Skill |
-| [**ease-music**](https://github.com/colinli007/ease-music) | 开源本地音乐播放器（Android / iOS），分层架构 + 插件化音源 | Expo · React Native · SQLite |
-| [**agent-skills**](https://github.com/colinli007/agent-skills) | 我自己日常在用的 Claude Code / Codex Agent Skills 合集 | Agent Skill |
-
 ## 📚 正在学习
 
 - **AI Agent 工程**：Agent 编排与工作流状态机、Tool Calling、结构化输出与 Prompt 工程、LangGraph
@@ -119,10 +108,3 @@
 
 - [colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288)：修复导入超大资源文件导致整个代码索引 OOM 的问题，附回归测试（Open）
 - [xiwen-html2canvas](https://github.com/colinli007/xiwen-html2canvas)：针对 html2canvas 生成图片不清晰，额外加了两个 API
-
-## 📊 GitHub 动态
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake-dark.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake.svg" />
-</picture>

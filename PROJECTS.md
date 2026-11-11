@@ -93,27 +93,9 @@ What I'd like to bring upstream:
 - [colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288) — fixed an OOM that took down the whole code index when an oversized asset file was imported, with a regression test (open)
 - [xiwen-html2canvas](https://github.com/colinli007/xiwen-html2canvas) — two extra APIs on top of html2canvas to fix blurry output
 
-## 🧪 AI and side projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Shanhe Ji** | A 3D sandbox of Chinese history: shifting borders, poets' journeys, reconstructed ancient battles | Next.js 16 · Three.js · Cloudflare Workers |
-| **Claudio** | A personal AI radio station — Claude Code is the DJ brain choosing tracks and links, delivered over TTS | Node.js · React PWA · WebSocket · TTS |
-| **AI culture app** | A mobile AI app with switchable LLM providers and a RAG knowledge base | React Native (Expo) · FastAPI · RAG · SSE |
-| **AI comic-drama pipeline** | Novel → character assets → storyboard → AI video, with machine-readable manifests relaying work across agent sessions | AI video generation · ComfyUI · Agent Skill |
-| [**ease-music**](https://github.com/colinli007/ease-music) | Open-source local music player (Android / iOS), layered architecture with pluggable sources | Expo · React Native · SQLite |
-| [**agent-skills**](https://github.com/colinli007/agent-skills) | The Claude Code / Codex agent skills I use day to day | Agent Skill |
-
 ## 📚 Currently learning
 
 - **AI agent engineering** — orchestration and workflow state machines, tool calling, structured output, prompt engineering, LangGraph
 - **Multi-model integration** — OpenAI / Gemini / Claude, streaming, rate limiting and cost control
 - **AI video backends** — document parsing → script generation → TTS → avatar → headless render and compositing
 - **Backend fundamentals** — FastAPI, Redis (distributed locks / Streams), MySQL / MongoDB, async job scheduling, Docker
-
-## 📊 GitHub activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake.svg" />
-</picture>

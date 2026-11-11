@@ -67,16 +67,3 @@ Web 视频编辑器核心开发：自研 DOM 画布编辑器、撤销重做、�
 **🖥 桌面自动化客户端** · Electron + Python 双进程，含授权服务与签名自动更新
 
 > 📖 每个项目的技术实现细节见 **[完整项目经历](PROJECTS.zh-CN.md)**
-
-## 🧪 个人项目
-
-- **山河纪**：中国历史 3D 沙盘（Next.js · Three.js）
-- **Claudio**：Claude Code 驱动的 AI 电台（Node.js · TTS）
-- **AI 文化解读 App**：大模型 + RAG 知识库（React Native · FastAPI）
-
-## 📊 GitHub 动态
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake-dark.svg" />
-  <img alt="贡献贪吃蛇" src="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake.svg" />
-</picture>

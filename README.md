@@ -67,16 +67,3 @@ Core developer of the web video editor: an in-house DOM canvas editor, undo/redo
 **🖥 Desktop automation client** · Electron + Python dual-process, with a licensing service and signed auto-update
 
 > 📖 Implementation details for each project: **[full project history](PROJECTS.md)**
-
-## 🧪 Side projects
-
-- **Shanhe Ji** — a 3D sandbox of Chinese history (Next.js · Three.js)
-- **Claudio** — an AI radio station where Claude Code plays DJ (Node.js · TTS)
-- **AI culture app** — LLM + RAG knowledge base (React Native · FastAPI)
-
-## 📊 GitHub activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/colinli007/colinli007/output/github-snake.svg" />
-</picture>
