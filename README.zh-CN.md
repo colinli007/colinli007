@@ -5,7 +5,7 @@
 # Hi，我是 Colin 👋
 
 <a href="https://github.com/colinli007">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=AI+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;%E6%B5%B7%E5%A4%96+AI+%E4%BA%A7%E5%93%81+%C2%B7+%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%99%A8%E5%BC%95%E6%93%8E;%E7%BC%96%E8%BE%91%E5%99%A8%E5%BC%95%E6%93%8E+%C2%B7+%E5%BC%80%E6%BA%90%E7%BB%B4%E6%8A%A4" alt="AI 全栈工程师" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=%E9%AB%98%E7%BA%A7%E5%89%8D%E7%AB%AF+%2F+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;AI+%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%99%A8+%C2%B7+Agent+%E6%9C%8D%E5%8A%A1;10+%E5%B9%B4%E7%A0%94%E5%8F%91+%C2%B7+%E5%89%8D%E7%AB%AF%E5%9B%A2%E9%98%9F%E7%AE%A1%E7%90%86" alt="高级前端 / 全栈工程师" />
 </a>
 
 <p>
@@ -21,49 +21,35 @@
 
 ## 🙋 关于我
 
-- 🤖 **AI 全栈工程师**，前端出身，近两年专注海外 AI 产品：AI 视频生成 SaaS、AI 内容工具、浏览器插件
-- 🎬 主要手艺是**编辑器引擎**：1920×1080 的 DOM 画布编辑器、撤销重做、逐帧对齐的时间轴播放引擎、GSAP 动效、Yjs 实时协作
-- 🧩 做过小程序 / H5 / PC / CRM / SaaS / App / Chrome 插件 / Electron，覆盖教育、医疗、直播、IM 等行业
-- 🐍 1 年 Python 经验，用 FastAPI 搭 RAG 与大模型应用，正在深入 Agent 编排
-- 🌱 在**画布交互与变换工具**方向做开源维护与贡献，见下
+- 👨‍💻 **高级前端 / 全栈工程师**，约 10 年研发经验，带过前端团队
+- 🎬 擅长**画布编辑器**：图层与历史状态、拖拽缩放 / 分组 / 裁切、撤销重做、时间轴预览、Yjs 实时协作
+- 🤖 **全栈与 Agent**：React/Vue 为基础，写 Node.js Agent 服务和 Python/FastAPI 接口
+- 📱 **多端**：PC、H5、微信小程序、App、Chrome 插件、Electron，做过 Flutter 原生 SDK 桥接和实时音视频
 
 ## 🛠 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,ts,tailwind,vite,flutter,electron,nodejs,py,fastapi,threejs,docker&perline=13" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,nextjs,vite,webpack,tailwind,nodejs,py,fastapi,mysql,redis,flutter,electron,docker&perline=15" alt="tech stack" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/uni--app-2B9939?style=flat-square" alt="uni-app" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Chrome_Extension_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
-  <img src="https://img.shields.io/badge/GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Moveable_/_Selecto-2F81F7?style=flat-square" alt="Moveable / Selecto" />
   <img src="https://img.shields.io/badge/Yjs-30BCED?style=flat-square" alt="Yjs" />
-  <img src="https://img.shields.io/badge/TipTap-1A1A1A?style=flat-square" alt="TipTap" />
+  <img src="https://img.shields.io/badge/SSE-555?style=flat-square" alt="SSE" />
+  <img src="https://img.shields.io/badge/uni--app-2B9939?style=flat-square" alt="uni-app" />
+  <img src="https://img.shields.io/badge/微信小程序-07C160?style=flat-square&logo=wechat&logoColor=white" alt="微信小程序" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Qiankun-1890FF?style=flat-square" alt="Qiankun" />
+  <img src="https://img.shields.io/badge/Chrome_Extension_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
 </p>
 
 ## 🌱 开源
 
-- **[daybrush/moveable](https://github.com/daybrush/moveable)** —— 我在生产环境里基于 `react-moveable` 做编辑器，已在 [#1156](https://github.com/daybrush/moveable/issues/1156) 提出协助维护。想带上游的是**可持久化的组**（合组 / 解组作为真实可序列化的实体，而不是运行时的 `targets` 数组，对应开了两年的 [#1133](https://github.com/daybrush/moveable/issues/1133)），以及**按子元素类型分发的组内递归缩放**（文本、SVG、被裁剪的媒体各自正确缩放，而不是统一套一个 scale，对应 [#1020](https://github.com/daybrush/moveable/issues/1020)）。目前等作者回复。
-- **[colbymchenry/codegraph#1288](https://github.com/colbymchenry/codegraph/pull/1288)** —— 修复导入超大资源文件导致整个代码索引 OOM 的问题，附回归测试。
-- **[agent-skills](https://github.com/colinli007/agent-skills)** —— 我自己日常在用的 Claude Code / Codex Agent Skills 合集。
-- **[ease-music](https://github.com/colinli007/ease-music)** —— 开源本地音乐播放器（Android / iOS），不内置音源，只播你已经拥有的音乐。
-- **[xiwen-html2canvas](https://github.com/colinli007/xiwen-html2canvas)** —— 针对 html2canvas 生成图片不清晰，额外加了两个 API。
-
-## 💼 代表作品
-
-**🎬 [Leadde](https://leadde.ai)** · 海外 AI 视频生成 SaaS（对标 HeyGen / Synthesia）
-
-Web 视频编辑器核心开发：自研 DOM 画布编辑器、撤销重做、时间轴预览播放引擎、GSAP 动效、Yjs 实时协作
-
-**📝 [Lynote](https://lynote.ai)** · 海外 AI 内容工具
-
-- [YouTube Transcript Generator](https://chromewebstore.google.com/detail/lynote-youtube-transcript/cpdecpnpoaahhdlfjnpokjpemdnjhekf)：YouTube 字幕生成、翻译与 AI 总结插件
-- [AI Humanizer & Detector](https://chromewebstore.google.com/detail/lynote-ai-humanizer-detec/egbpdidbaamhhibpipaehgonalpkmmic)：划词 AI 改写与检测插件
-- [lynote.ai](https://lynote.ai) 官网：Next.js SSR、SSE 流式翻译、10 种语言
-
-**🖥 桌面自动化客户端** · Electron + Python 双进程，含授权服务与签名自动更新
-
-> 📖 每个项目的技术实现细节见 **[完整项目经历](PROJECTS.zh-CN.md)**
+- **[flatpickr-ce](https://github.com/colinli007/flatpickr-ce)** —— 轻量、无依赖的日期时间选择器 Web 组件，支持日期 / 时间 / 范围选择，npm 一键安装
+- **[lanmao-reader 懒猫阅读](https://github.com/colinli007/lanmao-reader)** —— Flutter 跨端小说阅读器，兼容 Legado 书源
+- **[easy-music 轻松音乐](https://github.com/colinli007/easy-music)** —— React Native 本地音乐播放器（Android / iOS）
+- **[agent-skills](https://github.com/colinli007/agent-skills)** —— 我日常在用的 Claude Code / Codex Agent Skills
+- **[xiwen-html2canvas](https://github.com/colinli007/xiwen-html2canvas)** —— 解决 html2canvas 生成图片不清晰
