@@ -9,7 +9,7 @@
 </a>
 
 <p>
-  <a href="https://www.npmjs.com/~li1164267803"><img src="https://img.shields.io/badge/npm-li1164267803-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="https://www.npmjs.com/~colinli007"><img src="https://img.shields.io/badge/npm-colinli007-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
   <a href="https://blog.csdn.net/weixin_44309374"><img src="https://img.shields.io/badge/CSDN-技术博客-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="CSDN" /></a>
   <a href="https://www.douyin.com/user/MS4wLjABAAAAlJlcNMyzb8sTPP6J9vip0pnzAuAHiHN7_aBNztGQX-k"><img src="https://img.shields.io/badge/抖音-AI_内容分享-000000?style=flat-square&logo=tiktok&logoColor=white" alt="抖音" /></a>
   <a href="mailto:xiwenpp@163.com"><img src="https://img.shields.io/badge/Email-xiwenpp@163.com-2F81F7?style=flat-square" alt="Email" /></a>
